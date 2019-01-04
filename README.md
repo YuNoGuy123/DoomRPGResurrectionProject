@@ -1,1 +1,2 @@
 For as long as i've been playing GZDoom, i've had kyle873's doomRPG, due to multiple instances over the years where i've learned how to code in decorate and ACS, i can comfortably say that I want to make an unofficial patch for DoomRPG to bring it back to its former glory. I do not in any way shape or form, own the original DoomRPG, this is kyle873's mod.
+With that being said: I am going to work on the "Todo" list before i start adding my own crap, please be patient as while i know decorate and ACS im not the best at it.
